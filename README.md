@@ -12,17 +12,17 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 > Desktop screenshot
 
-    ![](./screenshots/desktop.png)
+   ![](./screenshots/desktop.png)
 
 > Mobile screenshot
 
-    ![](./screenshots/mobile.png)
+   ![](./screenshots/mobile.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-chBSjTr7ZX)
+- Live Site URL: [GitHub Pages](https://bilel-mwihbi.github.io/Profile-card-component/)
 
 ## Author
 
-- Frontend Mentor - [@Bilel-mwihbi](https://www.frontendmentor.io/profile/Bilel-mwihbi)
+- Frontend Mentor  [@Bilel-mwihbi](https://www.frontendmentor.io/profile/Bilel-mwihbi)
